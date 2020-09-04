@@ -58,6 +58,15 @@ Paintings:
     />
 </p>
 
+ * Abstract art
+
+<p align="center">
+    <img
+      src="painting/IMG_20200905_000632.jpg"
+      width="400"
+    />
+</p>
+
  * Delhi Protest
 
 <p align="center">
@@ -90,6 +99,15 @@ Paintings:
 <p align="center">
     <img
       src="painting/IMG_20181124_144835_306.jpg"
+      width="400"
+    />
+</p>
+
+ * Freedom
+
+<p align="center">
+    <img
+      src="painting/IMG_3268568231275.jpg"
       width="400"
     />
 </p>
@@ -251,7 +269,7 @@ Photography:
     />
 </p>
 
- * Table top
+ * Table Land
 
 <p align="center">
     <img
@@ -454,6 +472,42 @@ Photography:
 <p align="center">
     <img
       src="photography/DSC_0588.JPG"
+      width="400"
+    />
+</p>
+
+ * Structure - The Gateway of India
+
+<p align="center">
+    <img
+      src="photography/IMG_20180701_190040.jpg"
+      width="400"
+    />
+</p>
+
+ * Karwaan
+
+<p align="center">
+    <img
+      src="photography/IMG_20200905_000612.jpg"
+      width="400"
+    />
+</p>
+
+ * Dhom Lake
+
+<p align="center">
+    <img
+      src="photography/IMG_20180825_172518.jpg"
+      width="400"
+    />
+</p>
+
+ * Waa Taj
+
+<p align="center">
+    <img
+      src="photography/IMG_20200905_002243.jpg"
       width="400"
     />
 </p>
