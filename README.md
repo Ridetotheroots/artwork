@@ -130,6 +130,15 @@ Paintings:
     />
 </p>
 
+* Mother
+
+<p align="center">
+    <img
+      src="painting/IMG_20200904_160225.jpg"
+      width="400"
+    />
+</p>
+
 
 Photography:
 ============
@@ -394,6 +403,59 @@ Photography:
       width="400"
     />
 </p>
+
+ * Where Sea meets Sky
+
+<p align="center">
+    <img
+      src="photography/IMG20191202174306.jpg"
+      width="400"
+    />
+</p>
+
+ * Jungle flower
+
+<p align="center">
+    <img
+      src="photography/IMG_20191010_124713.jpg"
+      width="400"
+    />
+</p>
+
+ * pattern
+
+<p align="center">
+    <img
+      src="photography/DSC_0401.JPG"
+      width="400"
+    />
+</p>
+
+ * Christmas night in Parkstreet
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_160330.jpg"
+      widthDSC_0588.JPG
+
+ * A lonley Boat
+
+<p align="center">
+    <img
+      src="photography/DSC_0644.JPG"
+      width="400"
+    />
+</p>
+
+ * Church of Our Lady of Immaculate Conception
+
+<p align="center">
+    <img
+      src="photography/DSC_0588.JPG"
+      width="400"
+    />
+</p>
+
 
 
 ## 🚀 Follow me 
