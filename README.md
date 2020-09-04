@@ -436,7 +436,9 @@ Photography:
 <p align="center">
     <img
       src="photography/IMG_20200904_160330.jpg"
-      widthDSC_0588.JPG
+      width="400"
+    />
+</p>
 
  * A lonley Boat
 
