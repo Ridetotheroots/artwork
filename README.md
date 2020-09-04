@@ -359,7 +359,7 @@ Photography:
     />
 </p>
 
- * Slums
+ * Mumbai Slums
 
 <p align="center">
     <img
@@ -394,4 +394,11 @@ Photography:
       width="400"
     />
 </p>
+
+
+## 🚀 Follow me 
+
+ * Instagram: [Ridetotheroots] (https://www.instagram.com/ridetotheroots/?hl=en)
+ * Twitter: [Ridetotheroots] (https://twitter.com/Ridetotheroots)
+ * Video making: [Youtube] (https://www.youtube.com/watch?v=E-S5o_UZFgw&feature=youtu.be)
 
