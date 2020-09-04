@@ -1,8 +1,8 @@
-MY ARTWORKS
-===========
-
 <img src="logo/e771bf2c-7c42-4b21-83e8-7e2ef996acb9_200x200.png" align="right"
      alt="Ranabir ArtWork" width="200" height="200">
+
+Ranabir ArtWork
+================
 
 Paintings:
 ==========
