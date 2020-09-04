@@ -134,7 +134,7 @@ Paintings:
 Photography:
 ============
 
-* Mumbai Nightview
+ * Mumbai Nightview
 
 <p align="center">
     <img
@@ -143,11 +143,254 @@ Photography:
     />
 </p>
 
-* A perfect sunset
+ * A perfect sunset
 
 <p align="center">
     <img
       src="photography/DSC_0423_1575138448603.png"
+      width="400"
+    />
+</p>
+
+ * Sealink
+
+<p align="center">
+    <img
+      src="photography/DSC_0436_1571685518012.png"
+      width="400"
+    />
+</p>
+
+ * Reflection
+
+<p align="center">
+    <img
+      src="photography/DSC_0450_1575138632310.png"
+      width="400"
+    />
+</p>
+
+ * Goa life
+
+<p align="center">
+    <img
+      src="photography/DSC_0475_1575226685232.png"
+      width="400"
+    />
+</p>
+
+ * She
+
+<p align="center">
+    <img
+      src="photography/DSC_0561_1591467879577.png"
+      width="400"
+    />
+</p>
+
+ * Abstract
+
+<p align="center">
+    <img
+      src="photography/DSC_0663_1575379898466.png"
+      width="400"
+    />
+</p>
+
+ * Asiatic Society
+
+<p align="center">
+    <img
+      src="photography/DSC_0670.JPG"
+      width="400"
+    />
+</p>
+
+ * Near to nature
+
+<p align="center">
+    <img
+      src="photography/DSC_0864.JPG"
+      width="400"
+    />
+</p>
+
+ * Ocean and clouds
+
+<p align="center">
+    <img
+      src="photography/IMG20191202172300_1575315830809.png"
+      width="400"
+    />
+</p>
+
+ * A night in Mumbai
+
+<p align="center">
+    <img
+      src="photography/IMG20200111033456.jpg"
+      width="400"
+    />
+</p>
+
+ * City of Joy
+
+<p align="center">
+    <img
+      src="photography/IMG20200320172847_1584721771022.png"
+      width="400"
+    />
+</p>
+
+ * Table top
+
+<p align="center">
+    <img
+      src="photography/IMG_20180825_172518.jpg"
+      width="400"
+    />
+</p>
+
+ * Heaven like clouds
+
+<p align="center">
+    <img
+      src="photography/IMG_20180907_225429_678.jpg"
+      width="400"
+    />
+</p>
+
+ * Mumbai Sunset
+
+<p align="center">
+    <img
+      src="photography/IMG_20180916_075408_050.jpg"
+      width="400"
+    />
+</p>
+
+ * Abstract 2
+
+<p align="center">
+    <img
+      src="photography/IMG_20181222_211947_905.jpg"
+      width="400"
+    />
+</p>
+
+ * Ice-cream on mountain
+
+<p align="center">
+    <img
+      src="photography/IMG_20190401_171848_900.jpg"
+      width="400"
+    />
+</p>
+
+ * Mountains
+
+<p align="center">
+    <img
+      src="photography/IMG_20190404_151533_1554373950361.png"
+      width="400"
+    />
+</p>
+
+ * Waterfalls
+
+<p align="center">
+    <img
+      src="photography/IMG_20190728_142519_1582998199602.png"
+      width="400"
+    />
+</p>
+
+ * Roses in my garden
+
+<p align="center">
+    <img
+      src="photography/IMG_20200826_145414_408.jpg"
+      width="400"
+    />
+</p>
+
+ * Bangalore clouds
+
+<p align="center">
+    <img
+      src="photography/IMG_20200831_164613_532.jpg"
+      width="400"
+    />
+</p>
+
+ * Blessings
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_103731.jpg"
+      width="400"
+    />
+</p>
+
+ * Rocky
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_103756.jpg"
+      width="400"
+    />
+</p>
+
+ * Waves
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_103852.jpg"
+      width="400"
+    />
+</p>
+
+ * The Journey
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_103910.jpg"
+      width="400"
+    />
+</p>
+
+ * Slums
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_103956.jpg"
+      width="400"
+    />
+</p>
+
+ * Stairs
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_104015.jpg"
+      width="400"
+    />
+</p>
+
+ * Haldi River
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_104030.jpg"
+      width="400"
+    />
+</p>
+
+ * Abstarct 3
+
+<p align="center">
+    <img
+      src="photography/IMG_20200904_104118.jpg"
       width="400"
     />
 </p>
