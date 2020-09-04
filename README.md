@@ -4,7 +4,6 @@
 </div>
 
 <br/>
-<br/>
 
 Paintings:
 ==========
@@ -162,6 +161,7 @@ Paintings:
     />
 </p>
 
+<br/>
 
 Photography:
 ============
