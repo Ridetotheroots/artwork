@@ -499,15 +499,6 @@ Photography:
     />
 </p>
 
- * Dhom Lake
-
-<p align="center">
-    <img
-      src="photography/IMG_20180825_172518.jpg"
-      width="400"
-    />
-</p>
-
  * Waa Taj
 
 <p align="center">
