@@ -10,7 +10,7 @@ Paintings:
       width="400"
     />
 </p>
-```
+```python
 The Sunset with you
 ```
 <p align="center">
