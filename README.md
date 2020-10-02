@@ -5,6 +5,8 @@
 
 <br/>
 
+## 🚀 Thank you for visting! Please do checkout my artworks.
+
 Paintings:
 ==========
 
@@ -432,6 +434,15 @@ Photography:
 <p align="center">
     <img
       src="photography/IMG20191202174306.jpg"
+      width="400"
+    />
+</p>
+
+ * Advertisement
+
+<p align="center">
+    <img
+      src="photography/DSC_0845.JPG"
       width="400"
     />
 </p>
