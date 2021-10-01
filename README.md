@@ -7,6 +7,14 @@
 
 Paintings:
 ==========
+ * Lord Buddha
+
+<p align="center">
+    <img
+      src="painting/Buddha.jpg"
+      width="400"
+    />
+</p>
 
  * The Sunset with you
 
